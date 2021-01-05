@@ -1,5 +1,6 @@
 ## Currently Taking
  - [CS50T](https://cs50.harvard.edu/technology)
+ - [CS50x](https://cs50.harvard.edu/x)
  - Photoshop (no GIMP/Krita classes at school, unfortunately)
  
 ## Working on
