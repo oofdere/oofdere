@@ -1,10 +1,10 @@
 ## Currently Taking
- - [CS50T](https://cs50.harvard.edu/technology)
  - [CS50x](https://cs50.harvard.edu/x)
+ - [nand2tetris1](https://www.coursera.org/learn/build-a-computer)/[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
  - Photoshop (no GIMP/Krita classes at school, unfortunately)
  
 ## Working on
- - kvcm.live
+ - https://kvcm.live
  - Media Disclosures (coming soon)
  - PANG! (somewhat far off)
 
