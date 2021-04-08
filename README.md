@@ -5,7 +5,6 @@
  - Voiceover (did not think I'd be this bad at it)
  - Linux
  - Low Budget Production (very epic)
- - 
 
 ## Up next
  - [CS50x](https://cs50.harvard.edu/x)
