@@ -2,7 +2,6 @@
  - [CS50x](https://cs50.harvard.edu/x)
  - Anthropology (GE for Bio)
  - TV/Film Aesthetics
- - Understanding Motion Pictures
 
 ## End of Semester Report (Spring 2021)
 Missed two finals, definitely failed VFX by not turning anything in, classic me move. I expect overall GPA to be somewhere between 3.4-3.7 because of this. Low Budget Production is still kind of up in the air, as is Linux. Somehow got a B in VO, much confidence gained.
