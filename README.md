@@ -1,6 +1,6 @@
 ## Currently Taking (Summer 2021)
- - [CS50x](https://cs50.harvard.edu/x)
- - Anthropology (GE for Bio)
+ - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/25/)
+ - Anthropology (GE for Bio) ![Progress](https://progress-bar.dev/20/)
  - TV/Film Aesthetics
 
 ## End of Semester Report (Spring 2021)
@@ -18,6 +18,7 @@ Transferring is really up in the air at this point. Still no broadcast/video eng
  - [Media Disclosures](https://disclosures.media)
  - [kusojisho](https://kusojisho.moe)
  - [Broadcasting 42](https://b42.academy)
+ - https://tv.kvcm.live (shhhh)
  - https://kvcm.live (barely)
 
 ![oofdere's github stats](https://github-readme-stats.vercel.app/api?username=oofdere&count_private=true&show_icons=true)
