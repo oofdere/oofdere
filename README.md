@@ -1,7 +1,8 @@
 ## Currently Taking (Summer 2021)
- - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/25/)
- - Anthropology (GE for Bio) ![Progress](https://progress-bar.dev/20/)
+ - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/33/)
  - TV/Film Aesthetics
+ - Journalism
+ - ~~Anthropology~~ withdrawn
 
 ## End of Semester Report (Spring 2021)
 Missed two finals, definitely failed VFX by not turning anything in, classic me move. I expect overall GPA to be somewhere between 3.4-3.7 because of this. Low Budget Production is still kind of up in the air, as is Linux. Somehow got a B in VO, much confidence gained.
