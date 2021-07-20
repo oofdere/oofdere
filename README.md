@@ -1,7 +1,7 @@
 ## Currently Taking (Summer 2021)
  - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/33/)
  - TV/Film Aesthetics
- - Journalism
+ - ~~Journalism~~ dropped
  - ~~Anthropology~~ withdrawn
 
 ## End of Semester Report (Spring 2021)
