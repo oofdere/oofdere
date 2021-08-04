@@ -1,5 +1,5 @@
 ## Currently Taking (Summer 2021)
- - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/33/)
+ - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/42/)
  - TV/Film Aesthetics
 
 ## Up next
