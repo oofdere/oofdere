@@ -1,5 +1,5 @@
 ## Currently Taking
- - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/58/)
+ - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/66/)
 
 ## Up next
  - nand2tetris
