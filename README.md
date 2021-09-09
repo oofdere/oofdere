@@ -9,7 +9,7 @@
  - Library Science
 
 <details>
-<summary>## ⑨/⑨ Update</summary>
+<summary><h2>⑨/⑨ Update</h2></summary>
 Over the summer, I managed to get 2 W grades, which is kinda bad, I guess. However, I effectively completed CS50 as well, excluding the final project! I just need to stop being lazy and write a simple webpage and then I can progress to the final assignment and then the looming Final Project.
 
 Speaking of the final project, I built an alpha version of Heatchess, without any prior planning, which was definitely a mistake. The code looks like something YanDev might wave written. Next up, I will be rewriting from scratch, employing a modular architecture as that's what really killed the alpha. Unsure when I will actually be doing this as I'd rather start working on Field, and for that I need to complete CS50's Web Development course.
