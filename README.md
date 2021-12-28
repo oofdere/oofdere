@@ -1,6 +1,12 @@
 ## Currently Taking
  - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/83/)
  - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/8/)
+ - The C Programming Language ![Progress](https://progress-bar.dev/7/)
+ - [WaniKani](https://wanikani.com) ![Progress](https://progress-bar.dev/4/)
+<!--- Calculation info:
+WaniKani has 9060 items total.
+K&R has 189 pages excl. appendicies.
+-->
 
 ## Up next
  - Zero to ASIC
