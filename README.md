@@ -1,6 +1,6 @@
 ## Currently Taking
  - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/83/)
- - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/16/)
+ - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/25/)
  - The C Programming Language ![Progress](https://progress-bar.dev/7/)
  - [WaniKani](https://wanikani.com) ![Progress](https://progress-bar.dev/4/)
 <!--- Calculation info:
