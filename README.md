@@ -1,7 +1,7 @@
 ## Currently Taking
  - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/83/)
- - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/25/)
- - The C Programming Language ![Progress](https://progress-bar.dev/7/)
+ - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/33/)
+ - The C Programming Language ![Progress](https://progress-bar.dev/10/)
  - [WaniKani](https://wanikani.com) ![Progress](https://progress-bar.dev/4/)
 <!--- Calculation info:
 WaniKani has 9060 items total.
