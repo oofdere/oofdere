@@ -6,9 +6,9 @@
 <details>
 <summary>Next session (but still the same semester)</summary>
 
- - Computational Thinking for Digital Culture (3) ![Progress](https://progress-bar.dev/11/) <!---  -->
- - Prototyping Dreams (3) ![Progress](https://progress-bar.dev/8/) <!---  -->
- - Intro to Physical Computing (3) ![Progress](https://progress-bar.dev/13/) <!---  -->
+ - Computational Thinking for Digital Culture (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
+ - Prototyping Dreams (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
+ - Intro to Physical Computing (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
  
 </details>
 
