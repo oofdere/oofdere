@@ -1,4 +1,15 @@
 ## Currently Taking
+### ASU
+ - Intro to Digital Culture ![Progress](https://progress-bar.dev/11/) <!--- 4/27+7 -->
+ - Programming for Media Arts ![Progress](https://progress-bar.dev/8/) <!--- 2/23 -->
+ - Understanding the Enterprise ![Progress](https://progress-bar.dev/13/) <!--- 3/23 -->
+
+### Los Angeles Valley College
+ - Japanese 2 ![Progress](https://progress-bar.dev/0/)
+ - News/Sports/Live Broadcasting ![Progress](https://progress-bar.dev/0/)
+ - Radio/TV Activities ![Progress](https://progress-bar.dev/0/)
+
+### Self-taught
  - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/83/)
  - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/50/)
  - [WaniKani](https://wanikani.com) ![Progress](https://progress-bar.dev/5/)
@@ -13,11 +24,9 @@ K&R has 189 pages excl. appendicies.
  - Crafting Interpreters
 
 ## Working on
+ - https://takemy.cards - Online business cards that don't suck.
  - [Media Disclosures](https://disclosures.media) - Open source content ratings.
- - [kusojisho](https://kusojisho.moe) - One-page static dictionary.
- - [Broadcasting 42](https://b42.academy) - Independent Broadcasting MOOC.
  - https://kvcm.live - Campus radio station.
- - [Stream-to-Volume](https://github.com/oofdere/STV) - No-to-low budget livestreaming protocol/tool.
 
 ![oofdere's github stats](https://github-readme-stats.vercel.app/api?username=oofdere&count_private=true&show_icons=true)
 
