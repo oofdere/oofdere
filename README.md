@@ -1,13 +1,21 @@
 ## Currently Taking
 ### ASU
- - Intro to Digital Culture ![Progress](https://progress-bar.dev/11/) <!--- 4/27+7 -->
- - Programming for Media Arts ![Progress](https://progress-bar.dev/8/) <!--- 2/23 -->
- - Understanding the Enterprise ![Progress](https://progress-bar.dev/13/) <!--- 3/23 -->
+ - Intro to Digital Culture (3) ![Progress](https://progress-bar.dev/11/) <!--- 4/27+7 -->
+ - Programming for Media Arts (3) ![Progress](https://progress-bar.dev/8/) <!--- 2/23 -->
+ - Understanding the Enterprise (3) ![Progress](https://progress-bar.dev/13/) <!--- 3/23 -->
+<details>
+<summary>Next session (but still the same semester)</summary>
+
+ - Computational Thinking for Digital Culture (3) ![Progress](https://progress-bar.dev/11/) <!---  -->
+ - Prototyping Dreams (3) ![Progress](https://progress-bar.dev/8/) <!---  -->
+ - Intro to Physical Computing (3) ![Progress](https://progress-bar.dev/13/) <!---  -->
+ 
+</details>
 
 ### Los Angeles Valley College
- - Japanese 2 ![Progress](https://progress-bar.dev/0/)
- - News/Sports/Live Broadcasting ![Progress](https://progress-bar.dev/0/)
- - Radio/TV Activities ![Progress](https://progress-bar.dev/0/)
+ - Japanese 2 (5) ![Progress](https://progress-bar.dev/0/)
+ - News/Sports/Live Broadcasting (3) ![Progress](https://progress-bar.dev/0/)
+ - Radio/TV Activities (1) ![Progress](https://progress-bar.dev/0/)
 
 ### Self-taught
  - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/83/)
