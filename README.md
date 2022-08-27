@@ -1,7 +1,7 @@
 ## Currently Taking
 ### ASU
- - Intro to Digital Culture (3) ![Progress](https://progress-bar.dev/14/) <!--- 4+1/27+7 -->
- - Programming for Media Arts (3) ![Progress](https://progress-bar.dev/21/) <!--- 5/23 -->
+ - Intro to Digital Culture (3) ![Progress](https://progress-bar.dev/17/) <!--- 5+1/27+7=34 -->
+ - Programming for Media Arts (3) ![Progress](https://progress-bar.dev/30/) <!--- 7/23 -->
  - Understanding the Enterprise (3) ![Progress](https://progress-bar.dev/17/) <!--- 4/23 -->
 <details>
 <summary>Next session (but still the same semester)</summary>
@@ -13,9 +13,10 @@
 </details>
 
 ### Los Angeles Valley College
- - Japanese 2 (5) ![Progress](https://progress-bar.dev/0/)
- - News/Sports/Live Broadcasting (3) ![Progress](https://progress-bar.dev/0/)
- - Radio/TV Activities (1) ![Progress](https://progress-bar.dev/0/)
+ - Japanese 2 (5) ![Progress](https://progress-bar.dev/0/) <!---  -->
+ - News/Sports/Live Broadcasting (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
+ - Developing Content for Movies (3) ![Progress](https://progress-bar.dev/0/) <!--- 0/14 -->
+ - Radio/TV Activities (1) ![Progress](https://progress-bar.dev/0/) <!---  -->
 
 ### Self-taught
  - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/83/)
