@@ -1,6 +1,6 @@
 ## Currently Taking
 ### ASU
- - Intro to Digital Culture (3) ![Progress](https://progress-bar.dev/17/) <!--- 5+1/27+7=34 -->
+ - Intro to Digital Culture (3) ![Progress](https://progress-bar.dev/20/) <!--- 6+1/27+7=34 -->
  - Programming for Media Arts (3) ![Progress](https://progress-bar.dev/30/) <!--- 7/23 -->
  - Understanding the Enterprise (3) ![Progress](https://progress-bar.dev/17/) <!--- 4/23 -->
 <details>
