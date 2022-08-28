@@ -13,7 +13,7 @@
 </details>
 
 ### Los Angeles Valley College
- - Japanese 2 (5) ![Progress](https://progress-bar.dev/0/) <!---  -->
+ - Japanese 2 (5) ![Progress](https://progress-bar.dev/2/) <!--- 1/39  -->
  - News/Sports/Live Broadcasting (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
  - Developing Content for Movies (3) ![Progress](https://progress-bar.dev/0/) <!--- 0/14 -->
  - Radio/TV Activities (1) ![Progress](https://progress-bar.dev/0/) <!---  -->
