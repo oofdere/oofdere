@@ -1,25 +1,6 @@
 ## Currently Taking
-### ASU
- - Intro to Digital Culture (3) ![Progress](https://progress-bar.dev/23/) <!--- 6+2/27+7=34 -->
- - Programming for Media Arts (3) ![Progress](https://progress-bar.dev/43/) <!--- 10/23 -->
- - Understanding the Enterprise (3) ![Progress](https://progress-bar.dev/21/) <!--- 5/23 -->
-<details>
-<summary>Next session (but still the same semester)</summary>
-
- - Computational Thinking for Digital Culture (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
- - Prototyping Dreams (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
- - Intro to Physical Computing (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
- 
-</details>
-
-### Los Angeles Valley College
- - Japanese 2 (5) ![Progress](https://progress-bar.dev/2/) <!--- 1/39  -->
- - News/Sports/Live Broadcasting (3) ![Progress](https://progress-bar.dev/0/) <!---  -->
- - Developing Content for Movies (3) ![Progress](https://progress-bar.dev/0/) <!--- 0/14 -->
- - Radio/TV Activities (1) ![Progress](https://progress-bar.dev/0/) <!---  -->
-
 ### Self-taught
- - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/83/)
+ - [CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/100/) (yay!)
  - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/50/)
  - [WaniKani](https://wanikani.com) ![Progress](https://progress-bar.dev/5/)
 <!--- Calculation info:
