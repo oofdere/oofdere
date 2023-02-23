@@ -15,7 +15,7 @@ K&R has 189 pages excl. appendicies.
  - Crafting Interpreters
 
 ## Working on
- - [gasp](https://gasp.256.fyi) - A cozy home for cool art.
+ - [gasp](https://gasp.ink) - A cozy home for cool art.
  - https://takemy.cards - Online business cards that don't suck.
  - [Media Disclosures](https://disclosures.media) - Open source content ratings.
  - https://kvcm.live - Campus radio station.
