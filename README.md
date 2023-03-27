@@ -2,6 +2,10 @@
 
 ## Currently Taking
 ### Self-taught
+ - Rust (C with type safety and intimidating syntax???)
+   - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/0/)
+   - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/0/)
+   - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/0/)
  - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/50/)
  - [WaniKani](https://wanikani.com) ![Progress](https://progress-bar.dev/5/)
 <!--- Calculation info:
