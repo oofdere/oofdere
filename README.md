@@ -4,7 +4,7 @@
 ### Self-taught
  - Rust (C with type safety and intimidating syntax???)
    - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/23/) <!-- 493 pages total -->
-   - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/8/)
+   - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/23/)
    
  - [nand2tetris](https://nand2tetris.org) ![Progress](https://progress-bar.dev/50/)
  - [WaniKani](https://wanikani.com) ![Progress](https://progress-bar.dev/5/)
