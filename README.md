@@ -10,7 +10,7 @@
 ## Currently Taking
  - Rust (C with type safety and intimidating syntax???)
    - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/59/) <!-- 493 pages total -->
-   - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/74/)
+   - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/80/)
  - [nand2tetris Part 2](https://nand2tetris.org) ![Progress](https://progress-bar.dev/8/)
 
 ## Completed
