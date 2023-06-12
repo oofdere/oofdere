@@ -9,8 +9,11 @@
 
 ## Currently Taking
  - Rust (C with type safety and intimidating syntax???)
-   - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/80/) <!-- 493 pages total -->
    - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/88/)
+   - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/80/) <!-- 493 pages total -->
+   - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/0/)
+   - [Zero to Production in Rust](https://www.zero2prod.com) ![Progress](https://progress-bar.dev/0/)
+   - [Embedded Discovery Book](https://docs.rust-embedded.org/discovery/microbit/) ![Progress](https://progress-bar.dev/0/)
  - [nand2tetris Part 2](https://nand2tetris.org) ![Progress](https://progress-bar.dev/8/)
 
 ## Completed
@@ -18,11 +21,14 @@
  - [nand2tetris Part 1](https://nand2tetris.org)
 
 ## Planned
- - Zero to ASIC
- - The C Programming Language
- - [Crafting Interpreters](https://craftinginterpreters.com/)
- - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/)
- - Ziglings (because rust can't interface with c when using wasm yet)
- - Math (no clue where to even start tbh
+ - Hardware
+   - [Tiny Tapeout](https://tinytapeout.com/)
+   - [Zero to ASIC](https://www.zerotoasiccourse.com/)
+ - Software
+   - [Crafting Interpreters](https://craftinginterpreters.com/)
+   - [Ziglings](https://github.com/ratfactor/ziglings) (because rust can't interface with c when using wasm yet)
+   - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+   - The C Programming Language
+ - Math (no clue where to even start tbh)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oofdere)](https://git.io/streak-stats)
