@@ -10,11 +10,10 @@
 ## Currently Taking
  - Rust (C with type safety and intimidating syntax???)
    - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/88/)
-   - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/80/) <!-- 493 pages total -->
-   - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/0/)
+   - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/85/) <!-- 493 pages total -->
    - [Zero to Production in Rust](https://www.zero2prod.com) ![Progress](https://progress-bar.dev/0/)
-   - [Embedded Discovery Book](https://docs.rust-embedded.org/discovery/microbit/) ![Progress](https://progress-bar.dev/0/)
  - [nand2tetris Part 2](https://nand2tetris.org) ![Progress](https://progress-bar.dev/8/)
+ - [Wanikani](https://www.wanikani.com/) ![Progress](https://progress-bar.dev/3/) <!-- 60 levels total -->
 
 ## Completed
  - [Harvard CS50x](https://cs50.harvard.edu/x)
@@ -24,6 +23,7 @@
  - Hardware
    - [Tiny Tapeout](https://tinytapeout.com/)
    - [Zero to ASIC](https://www.zerotoasiccourse.com/)
+   - [Embedded Discovery Book](https://docs.rust-embedded.org/discovery/microbit/)
  - Software
    - [Crafting Interpreters](https://craftinginterpreters.com/)
    - [Ziglings](https://github.com/ratfactor/ziglings) (because rust can't interface with c when using wasm yet)
