@@ -10,14 +10,14 @@
 ## Currently Taking
  - Rust (C with type safety and intimidating syntax???)
    - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/91/)
-   - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/92/) <!-- 493 pages total -->
    - [Zero to Production in Rust](https://www.zero2prod.com) ![Progress](https://progress-bar.dev/0/)
  - [nand2tetris Part 2](https://nand2tetris.org) ![Progress](https://progress-bar.dev/8/)
  - [Wanikani](https://www.wanikani.com/) ![Progress](https://progress-bar.dev/3/) <!-- 60 levels total -->
 
 ## Completed
- - [Harvard CS50x](https://cs50.harvard.edu/x)
- - [nand2tetris Part 1](https://nand2tetris.org)
+ - [Harvard CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/100/)
+ - [nand2tetris Part 1](https://nand2tetris.org) ![Progress](https://progress-bar.dev/100/)
+ - [The Rust Programming Language (static skim)](https://doc.rust-lang.org/book) ![Progress](https://progress-bar.dev/100/)
 
 ## Planned
  - Hardware
