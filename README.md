@@ -8,7 +8,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ## Currently Taking
- - [Frontend Masters: The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) ![Progress](https://progress-bar.dev/13/)
+ - [Frontend Masters: The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) ![Progress](https://progress-bar.dev/17/)
  - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/5/)
  - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/91/)
  - [Zero to Production in Rust](https://www.zero2prod.com) ![Progress](https://progress-bar.dev/0/)
