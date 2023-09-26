@@ -9,7 +9,7 @@
 
 ## Currently Taking
  - [Frontend Masters: The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) ![Progress](https://progress-bar.dev/17/)
- - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/5/)
+ - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/11/)
  - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/91/)
  - [Zero to Production in Rust](https://www.zero2prod.com) ![Progress](https://progress-bar.dev/0/)
  - [nand2tetris Part 2](https://nand2tetris.org) ![Progress](https://progress-bar.dev/8/)
