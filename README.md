@@ -7,6 +7,18 @@
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
+## What's cooking?
+ - [ ] kvcm.live 2.0 - Almost done, but I need a different host for the radio stream.
+ - [ ] progress.cafe - A to-do list that doesn't miss the bigger picture nor the finest details.
+ - [ ] Crabrave - TypeScript Enums. But good.
+ - [ ] Hammock - Kick back. TypeScript CouchDB client and eventual PouchDB replacement.
+
+## Considering adding to the menu
+ - [ ] Stream poll thingy - Shows Twitch polls in real-time in a browser source. (I'd like to add YouTUbe as well but their API *sucks* whereas with Twitch you just join a public IRC room to read messages. I might legit need a relay server for YouTube.)
+ - [ ] Tailscale UI - I'd like to have a UI on Linux!
+ - [ ] Caddy UI - I'd generally just like to have a UI for Caddy
+ - [ ] wanwan - WaniKani client, will probably pick it back up when I start properly studying Japanese again.
+
 ## Currently Taking
  - [Frontend Masters: The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) ![Progress](https://progress-bar.dev/17/)
  - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/17/)
