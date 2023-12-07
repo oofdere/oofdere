@@ -7,6 +7,9 @@
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
+## Now serving!
+ - [x] Crabrave - TypeScript Enums. But good.
+
 ## What's cooking?
  - [ ] kvcm.live 2.0 - Almost done, but I need a different host for the radio stream.
  - [ ] progress.cafe - A to-do list that doesn't miss the bigger picture nor the finest details.
@@ -20,6 +23,7 @@
  - [ ] wanwan - WaniKani client, will probably pick it back up when I start properly studying Japanese again.
 
 ## Currently Taking
+ - [Advent of Code 2023](https://adventofcode.com) ![Progress](https://progress-bar.dev/23/)
  - [Frontend Masters: The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) ![Progress](https://progress-bar.dev/17/)
  - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/17/)
  - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/91/)
