@@ -8,13 +8,13 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ## Now serving!
- - [x] Crabrave - TypeScript Enums. But good.
+ - [x] [Crabrave](https://crabrave.vercel.app) - TypeScript Enums. But good.
 
 ## What's cooking?
- - [ ] kvcm.live 2.0 - Almost done, but I need a different host for the radio stream.
  - [ ] progress.cafe - A to-do list that doesn't miss the bigger picture nor the finest details.
- - [ ] Crabrave - TypeScript Enums. But good.
  - [ ] Hammock - Kick back. TypeScript CouchDB client and eventual PouchDB replacement.
+ - [ ] Passport - more info soon!
+ - [ ] kvcm.live 2.0 - Almost done, but I need a different host for the radio stream.
 
 ## Considering adding to the menu
  - [ ] Stream poll thingy - Shows Twitch polls in real-time in a browser source. (I'd like to add YouTUbe as well but their API *sucks* whereas with Twitch you just join a public IRC room to read messages. I might legit need a relay server for YouTube.)
