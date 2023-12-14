@@ -11,10 +11,11 @@
  - [x] [Crabrave](https://crabrave.vercel.app) - TypeScript Enums. But good.
 
 ## What's cooking?
- - [ ] progress.cafe - A to-do list that doesn't miss the bigger picture nor the finest details.
- - [ ] Hammock - Kick back. TypeScript CouchDB client and eventual PouchDB replacement.
- - [ ] Passport - more info soon!
- - [ ] kvcm.live 2.0 - Almost done, but I need a different host for the radio stream.
+
+ - [ ] progress.cafe - A to-do list that doesn't miss the bigger picture nor the finest details. (initially rxdb+couch to be replaced in the future by hammock)
+ - [ ] Hammock - Kick back. TypeScript CouchDB client and eventual PouchDB replacement. (I would call it couchbase but someone took that name already and sofabase just doesn't roll off the tounge ya know)
+ - [ ] Passport - more info soon! (soon is in valve time)
+ - [ ] kvcm.live 2.0 - Almost done, but I need a different host for the radio stream. (we're on break for the holidays, I think)
 
 ## Considering adding to the menu
  - [ ] Stream poll thingy - Shows Twitch polls in real-time in a browser source. (I'd like to add YouTUbe as well but their API *sucks* whereas with Twitch you just join a public IRC room to read messages. I might legit need a relay server for YouTube.)
@@ -23,13 +24,9 @@
  - [ ] wanwan - WaniKani client, will probably pick it back up when I start properly studying Japanese again.
 
 ## Currently Taking
- - [Advent of Code 2023](https://adventofcode.com) ![Progress](https://progress-bar.dev/23/)
- - [Frontend Masters: The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) ![Progress](https://progress-bar.dev/17/)
- - [The Rust Programming Language (experimental interactive version)](https://rust-book.cs.brown.edu/) ![Progress](https://progress-bar.dev/17/)
- - [Rustlings](https://github.com/rust-lang/rustlings) ![Progress](https://progress-bar.dev/91/)
- - [Zero to Production in Rust](https://www.zero2prod.com) ![Progress](https://progress-bar.dev/0/)
- - [nand2tetris Part 2](https://nand2tetris.org) ![Progress](https://progress-bar.dev/8/)
- - [Wanikani](https://www.wanikani.com/) ![Progress](https://progress-bar.dev/3/) <!-- 60 levels total -->
+*the progress bars will be back when I have a nicer way of integrating them!*
+ - [ ] Designing Data Intensive Applications (Kleppmann)
+ - [ ] Deep Learning for Coders with fastai & PyTorch: AI Applications Without a PhD (https://course.fast.ai)
 
 ## Completed
  - [Harvard CS50x](https://cs50.harvard.edu/x) ![Progress](https://progress-bar.dev/100/)
