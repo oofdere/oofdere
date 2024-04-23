@@ -10,6 +10,6 @@ I currently work on [Unikara](https://unikara.moe), some secret projects, and ha
 
 Feel free to reach out for whatever reason via [Discord](https://discordapp.com/users/183423435114938368) or [Twitter](twitter.com/oofdere).
 
-Hire me: [oofdere@hey.com](mailto: oofdere@hey.com)
+Hire me: [oofdere@hey.com](mailto:oofdere@hey.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oofdere)](https://git.io/streak-stats)
