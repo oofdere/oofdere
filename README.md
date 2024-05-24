@@ -13,3 +13,11 @@ Feel free to reach out for whatever reason via [Discord](https://discordapp.com/
 Hire me: [oofdere@hey.com](mailto:oofdere@hey.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oofdere)](https://git.io/streak-stats)
+
+### Short-term Goals
+  1. Complete Elixir in Action
+  2. Build [together.fm](https://github.com/oofdere/togetherfm)
+  3. Complete Designing Data Intensive Applications
+  4. Complete the Phoenix guides
+  5. Read "500 Lines or Less"
+  6. Do nand2tetris Part 2
