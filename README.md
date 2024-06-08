@@ -21,3 +21,5 @@ Hire me: [oofdere@hey.com](mailto:oofdere@hey.com)
   4. Complete the Phoenix guides
   5. Read "500 Lines or Less"
   6. Do nand2tetris Part 2
+
+$`\&#x75;nicode['Comic Sans MS'; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; opacity: 0.5; background: url('https://raw.githubusercontent.com/oofdere/oofdere/master/shhh.jpg');]{x0000}`$
