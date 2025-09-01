@@ -7,6 +7,7 @@ things I use:
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,svelte,tailwind,tauri,vite,bun,elysia,workers)](https://skillicons.dev)
 
 active projects:
+ - [**oke**](https://github.com/oofdere/oke) - simple but powerful ai tooling
  - [**ana**](https://github.com/oofdere/ana) - WIP DSL for defining ATProto lexicons, powered by [tree-sitter](https://github.com/oofdere/tree-sitter-ana) for parsing and serde for lexicon generation
  - [**blush**](https://github.com/oofdere/blush) - a playful SvelteKit-based bluesky client focused on being a joy to use, with a secondary goal of providing reactive caching primatives via nanostores
  - [**crosswind**](https://github.com/oofdere/crosswind) - a lightningcss plugin that brings the tailwind design system into css for easier interop
